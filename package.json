@@ -1,0 +1,24 @@
+{
+  "name": "projectmanagement",
+  "version": "1.0.0",
+  "description": "a project management application ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "backend",
+    "API",
+    "cration"
+  ],
+  "author": "Jaadu",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.4"
+  }
+}
